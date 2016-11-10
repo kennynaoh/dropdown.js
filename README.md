@@ -1,5 +1,7 @@
 # Dropdown.js
 
+[![CDNJS](https://img.shields.io/cdnjs/v/dropdown.js.svg)](https://cdnjs.com/libraries/dropdown.js)
+
 Finally a dropdown plugin that transforms select inputs in nice dropdowns and does not drive you crazy.
 
 I've always wondered why the most famous plugins (Chosen and Selectize) are so huge and full of useless/pointless features?
